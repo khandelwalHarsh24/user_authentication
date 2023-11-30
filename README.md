@@ -20,9 +20,9 @@
 
 3. .env file
    
-   MONGODB_URI=mongodb+srv://userName:password@clustername.msmeg.mongodb.net/databaseName?retryWrites=true&w=majority
+   URL=mongodb+srv://userName:password@clustername.msmeg.mongodb.net/databaseName?retryWrites=true&w=majority
 
-   SECRET_KEY=yoursecretkey
+   secret=yoursecretkey
 
 4. Running the Application
 
